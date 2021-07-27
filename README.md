@@ -2,7 +2,7 @@
 
 > A dark theme for [Aliucord](https://github.com/Aliucord/Aliucord).
 
-<img href="https://github.com/Darkempire78/Aliucord-Dracula-Theme/blob/main/Picture1.png" height="300">
+<img src="https://github.com/Darkempire78/Aliucord-Dracula-Theme/blob/main/Picture1.png" alt="screenshot" height="600px"> <img src="https://github.com/Darkempire78/Aliucord-Dracula-Theme/blob/main/Picture2.png" alt="screenshot" height="600px">
 
 ## Install
 

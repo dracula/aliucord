@@ -1,4 +1,4 @@
-### [Spicetify](https://github.com/khanhas/spicetify-cli)
+### [Aliucord](https://github.com/Aliucord/Aliucord)
 
 #### Install using Git
 
